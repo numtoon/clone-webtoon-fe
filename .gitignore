@@ -109,6 +109,7 @@ package-lock.json
 /**/.ruby-version
 
 # iOS / CocoaPods
+ios
 /ios/*
 /template/ios/build/
 /template/ios/Pods/

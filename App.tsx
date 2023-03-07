@@ -4,9 +4,11 @@ import HomeNavigator from './pages/navigation/home';
 
 const App = () => {
   return (
-    <NavigationContainer>
-      <HomeNavigator />
-    </NavigationContainer>
+    <>
+      <NavigationContainer>
+        <HomeNavigator />
+      </NavigationContainer>
+    </>
   );
 };
 

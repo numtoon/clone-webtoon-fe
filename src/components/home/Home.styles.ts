@@ -14,7 +14,7 @@ export const HomeText = styled.Text`
 
 export const EmptyWrapper = styled.View`
   width: 100%;
-  height: 700px;
+  height: 1000px;
   display: flex;
   align-items: center;
 `;

@@ -6118,6 +6118,11 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   "version" "17.0.2"
 
+"react-native-animated-header@^1.0.7":
+  "integrity" "sha512-h+YN9eukJYreoWIYrZu5oZL8vKoynkoqe8Icfn3k+0kXRtiZWA4rP31uabF8lavLm5F3N28uIj7BFvWthLrN7Q=="
+  "resolved" "https://registry.npmjs.org/react-native-animated-header/-/react-native-animated-header-1.0.7.tgz"
+  "version" "1.0.7"
+
 "react-native-codegen@^0.71.5":
   "integrity" "sha512-rfsuc0zkuUuMjFnrT55I1mDZ+pBRp2zAiRwxck3m6qeGJBGK5OV5JH66eDQ4aa+3m0of316CqrJDRzVlYufzIg=="
   "resolved" "https://registry.npmjs.org/react-native-codegen/-/react-native-codegen-0.71.5.tgz"
